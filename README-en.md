@@ -22,7 +22,7 @@ This repository includes literary works and funny contents. Welcome to submit yo
 2. Original: all submission works must be original. <br />
 3. Punctuation: if a punctuation mark is used, a full text specification should be used. <br />
 4. Typesetting: neat and orderly, not disorderly; suitable for drawing, not too much and best consistent with the content; appropriate line break, not too large space gap; consistent format, poetry is exquisite, words are appropriate. <br />
-5. prohibition: do not contribute intensively. All advertisements, official account numbers, two-dimensional codes, watermark pictures, and external chain addresses should not be found in the text. Any violation of the rules will be rejected. <br />
+5. Prohibition: do not contribute intensively; all advertisements, official account numbers, two-dimensional codes, watermark pictures, and external chain addresses should not be found in the text; any violation of the rules will be rejected. <br />
 
 
 ## List of works
