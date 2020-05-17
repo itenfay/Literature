@@ -1,5 +1,5 @@
 
-[【English】](#README-en.md)
+[【English】](https://github.com/dgynfi/Literature/blob/master/README-en.md)
 
 ---
 
@@ -25,6 +25,6 @@
 5、禁令：请勿密集投稿，不得在文中出现一切广告、公众号、二维码、带水印的图片、外链网址，污秽之语，如违规则一律拒稿。<br />
 
 
----
+## List of works
 
-1. [《卧春》](#Poems/wochun.md)
+1. [《卧春》](https://github.com/dgynfi/Literature/blob/master/Poems/wochun.md)
