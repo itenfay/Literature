@@ -1,30 +1,31 @@
+## Literature
 
-[【English】](https://github.com/dgynfi/Literature/blob/master/README-en.md)
+Literature is a way and means to express the objective world and subjective knowledge by using language or words as media. When words are no longer only used to record, but are endowed with other thoughts and feelings, and have the beauty of art, it can be called language art. Poetry, prose, novels, plays, fables, fairy tales and other different genres are important forms of literature. Literature in different forms, namely genre, expresses inner feelings and represents social life in a certain period and a certain region. Literature is one of the subject categories of humanities, which is on the top of social structure together with philosophy, religion, law and politics.
 
----
-
-
-# 文学
-
-文学是一种用语言或文字作为媒介，表达客观世界和主观认识的方式和手段。当文字不再单单用来记录，而被赋予其他思想和情感，并具有了艺术之美，便可称为语言艺术。诗歌、散文、小说、剧本、寓言、童话等不同体裁，是文学的重要表现形式。文学以不同的形式即体裁，表现内心情感，再现一定时期和一定地域的社会生活。文学是属于人文学科的学科分类之一，与哲学、宗教、法律、政治并驾于社会建筑上层。
+[Chinese Instructions (中文说明)](README-zh.md)
 
 
-## 免责声明
+## Disclaimer
 
-一部分作品来自投稿和另一部分内容来源于互联网，投稿应该要严谨严肃且为原创，如涉及版权和法律法规问题，就请提 issue 或者发送 email 联系本人。经过双方或三方沟通且验证属实，本人就会删除。
+Some works are from contributions and other contents are from the Internet. Contributions should be rigorous and original. If copyright and laws and regulations are involved, please contact me by issue or email. After the communication between two or three parties and the verification is true, I will delete it.
 
 
-## 投稿须知 
+## Instructions to Authors 
 
-本仓库收录文学作品、好玩搞笑的内容，欢迎各位小伙伴来投稿。 
+This repository includes literary works and funny contents. Welcome to submit your works.
 
-1、题材：本专题收录古诗词、古文、散文、小说、剧本、寓言、童话、国画、书法、对联、灯谜、歇后语、民族音乐、民族戏剧、民间曲艺等；<br /> 
-2、原创：所有投稿作品，必须为原创；<br />
-3、标点：行文若使用了标点符号，须全文规范；<br />
-4、排版：整洁有序，不能乱七八糟；配图相宜，不宜过多且最好与内容相符；断行适当，空格间隙不要太大；格式相符，诗有诗的讲究，词有词的分寸；<br />
-5、禁令：请勿密集投稿，不得在文中出现一切广告、公众号、二维码、带水印的图片、外链网址，污秽之语，如违规则一律拒稿。<br />
+1. Subject: this topic includes ancient poetry, prose, novel, script, fable, fairy tale, Chinese painting, calligraphy, couplet, lantern riddle, allegorical sayings, national music, national drama, folk music, etc. <br />
+2. Original: all submission works must be original. <br />
+3. Punctuation: if a punctuation mark is used, a full text specification should be used. <br />
+4. Typesetting: neat and orderly, not disorderly; suitable for drawing, not too much and best consistent with the content; appropriate line break, not too large space gap; consistent format, poetry is exquisite, words are appropriate. <br />
+5. Prohibition: do not contribute intensively; all advertisements, official account numbers, two-dimensional codes, watermark pictures, and external chain addresses should not be found in the text; any violation of the rules will be rejected. <br />
 
 
 ## List of works
 
 1. [《卧春》](https://github.com/dgynfi/Literature/blob/master/Poems/wochun.md)
+
+
+## License
+
+Distributed under the Apache license. See [LICENSE](LICENSE) for more information.
