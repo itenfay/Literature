@@ -4,11 +4,9 @@ Literature is a way and means to express the objective world and subjective know
 
 [Chinese Instructions (中文说明)](README-zh.md)
 
-
 ## Disclaimer
 
 Some works are from contributions and other contents are from the Internet. Contributions should be rigorous and original. If copyright and laws and regulations are involved, please contact me by issue or email. After the communication between two or three parties and the verification is true, I will delete it.
-
 
 ## Instructions to Authors 
 
@@ -20,11 +18,9 @@ This repository includes literary works and funny contents. Welcome to submit yo
 4. Typesetting: neat and orderly, not disorderly; suitable for drawing, not too much and best consistent with the content; appropriate line break, not too large space gap; consistent format, poetry is exquisite, words are appropriate. <br />
 5. Prohibition: do not contribute intensively; all advertisements, official account numbers, two-dimensional codes, watermark pictures, and external chain addresses should not be found in the text; any violation of the rules will be rejected. <br />
 
-
 ## List of works
 
-1. [《卧春》](https://github.com/dgynfi/Literature/blob/master/Poems/wochun.md)
-
+1. [《卧春》](https://github.com/chenxing640/Literature/blob/master/Poems/wochun.md)
 
 ## License
 
